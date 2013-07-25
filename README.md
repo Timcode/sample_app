@@ -1,5 +1,10 @@
-# Ruby on Rails Tutorial: sample application
+#Ruby on Rails sample application
+##Based on the Rails Tutorial by Michael Hartl
 
-This is the sample application for
+* Signup
+* Login / Logout
+* SQLite3 for storing user data
+
+
 the [*Ruby on Rails Tutorial*](http://railstutorial.org/)
 by [Michael Hartl](http://michaelhartl.com/).
